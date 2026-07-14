@@ -15,7 +15,7 @@ For site creation I use:
 
 ## 🖥️ Desktop apps
 
-For example, I've created: [NXVM - QEMU Manager]([NXVM - QEMU manager](https://github.com/VladosNX/NXVM)), and contributed in JETLauncher - games launcher.
+For example, I've created: [NXVM - QEMU Manager](https://github.com/VladosNX/NXVM), and contributed in JETLauncher - games launcher.
 
 I use:
 - Python or C++ as a programming language
