@@ -4,7 +4,7 @@ My name is **Vlad** - I am a developer who knows:
 
 ## 🌐 Web
 
-I made several sites, for example [https://muzhiks.vladosnx.ru](Muzhik Begaet - simple social network) or [https://talkew.fun](Talkew - language learning with friends)
+I made several sites, for example [Muzhik Begaet - simple social network](https://muzhiks.vladosnx.ru) or [Talkew - language learning with friends](https://talkew.fun)
 
 For site creation I use:
 
@@ -15,7 +15,7 @@ For site creation I use:
 
 ## 🖥️ Desktop apps
 
-For example, I've created: [https://github.com/VladosNX/NXVM](NXVM - QEMU manager), and contributed in JETLauncher - games launcher.
+For example, I've created: [NXVM - QEMU Manager]([NXVM - QEMU manager](https://github.com/VladosNX/NXVM)), and contributed in JETLauncher - games launcher.
 
 I use:
 - Python or C++ as a programming language
@@ -23,7 +23,7 @@ I use:
 
 ## 🤖 Vibecoding experience
 
-I've tried to create some projects with Claude Code - for example, [https://talkew.fun](Talkew). Right now I learn to control its architecture and explain what I need.
+I've tried to create some projects with Claude Code - for example, [Talkew](https://talkew.fun). Right now I learn to control its architecture and explain what I need.
 
 ## My Telegram Channel
 
