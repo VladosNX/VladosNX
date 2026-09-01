@@ -15,11 +15,18 @@ For site creation I use:
 
 ## 🖥️ Desktop apps
 
-For example, I've created: [Codex Kostyl - extended Codex GUI for Linux](https://github.com/VladosNX/codex-kostyl), [NXVM - QEMU Manager](https://github.com/VladosNX/NXVM), and contributed in JETLauncher - games launcher.
+I've created a few desktop applications. Even though unfortunately the best ones were made with AI, I now know what the best software should look like.
 
 I use:
 - Python or C++ as a programming language
-- Qt/PyQT as a framework
+- Qt/PySide as a framework
+
+My best desktop projects are:
+- [Codex Kostyl - extended Codex GUI for Linux](https://github.com/VladosNX/codex-kostyl)
+- [Keysmeter - measures your typing speed on practice](https://github.com/VladosNX/keysmeter)
+
+But app below wasn't created with AI:
+- [NXVM - a simple QEMU virtual machines manager](https://github.com/VladosNX/nxvm)
 
 ## 🐧 Linux and Servers
 
@@ -30,6 +37,10 @@ Now I can quickly setup a web-server or even a Matrix homeserver. I'm also ready
 ## 🤖 Vibecoding experience
 
 I've tried to create some projects with Claude Code - for example, [Talkew](https://talkew.fun). Right now I learn to control its architecture and explain what I need.
+
+## 🎮 Game development (a little bit)
+
+I've tried to create some games with Unreal Engine 4/5 and Unity. Even though I wasn't as good at creating games as I am at Web/Linux, I definitely realized one thing - Unreal Engine 5 is a hundred times better than Unity.
 
 ## My Telegram Channel
 
