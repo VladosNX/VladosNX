@@ -21,6 +21,12 @@ I use:
 - Python or C++ as a programming language
 - Qt/PyQT as a framework
 
+## 🐧 Linux and Servers
+
+I've been using Linux for several years! My first distro is Linux Mint, right now I use Arch Linux on a home machine and Debian on servers. **Stop using Ubuntu Server!**
+
+Now I can quickly setup a web-server or even a Matrix homeserver. I'm also ready to explore new technologies!
+
 ## 🤖 Vibecoding experience
 
 I've tried to create some projects with Claude Code - for example, [Talkew](https://talkew.fun). Right now I learn to control its architecture and explain what I need.
