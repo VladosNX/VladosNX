@@ -44,4 +44,4 @@ I've tried to create some games with Unreal Engine 4/5 and Unity. Even though I 
 
 ## My Telegram Channel
 
-You can subscribe to my Telegram channel, where I my process of making projects - https://t.me/vnxprojects
+You can subscribe to my Telegram channel, where I share the process of making projects - https://t.me/vnxprojects
